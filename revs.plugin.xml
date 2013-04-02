@@ -5,16 +5,14 @@
 
 	<author url="http://owenw.com/">Owen Winkler</author>
 
-	<version>1.0</version>
+	<version>1.0-1.0</version>
 	<url>http://redalt.com/addons/plugins/revs</url>
 	<description><![CDATA[Displays post revisions in a tray on the post editing page.]]></description>
 
 	<copyright>2013</copyright>
 
 	<help>
-		<value><![CDATA[
-		<p>There is no helping you now.
-		]]></value>
+		<value href="readme.md"></value>
 	</help>
 	<guid>f05d512b-d67e-465f-bf68-06aaae3f11a7</guid>
 
