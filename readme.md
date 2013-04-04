@@ -6,5 +6,3 @@ Habari's core capaibilities automatically keeps revisions of the core data field
 
 This plugin provides all of the key revisions by date and allows you to select a revision.  When a revision is selected, the data for that revision is loaded into the post publishing form.  At that point, the data can be reviewed, or even re-published as the latest revision.
 
-Updated for the tag.
-
